@@ -1,6 +1,6 @@
 # C Programming with Linux
 
-This repo contains my course notes for Coursera's "C Programming with Linux" Specialization program, offered by Dartmouth.  The Specialization program contains seven short courses that discuss how to read, write, and debug computer programs in C, while becoming familiar with the Linux OS.
+This repo contains my course notes for Coursera's "C Programming with Linux" Specialization program, offered by Dartmouth and taught by Remi Sharrock and Petra Bonfert-Taylor.  The Specialization program contains seven short courses that discuss how to read, write, and debug computer programs in C, while becoming familiar with the Linux OS.
 
 ## Course Objectives
 
