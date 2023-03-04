@@ -4,37 +4,37 @@ This repo contains my course notes for Coursera's "C Programming with Linux" Spe
 
 ## Course Objectives
 
-### C Programming: Getting Started - 1
+### 1 - C Programming: Getting Started
 
 - Write your first program
 - Make simple computations and print results to the terminal
 - Store values in variables
 - Repeat instructions using loops
 
-### C Progamming: Language Foundations - 2
+### 2 - C Progamming: Language Foundations
 
 - Use logical statements and arrays
 - Implement fundamental algorithms to search and sort data
 
-### C Programming: Modular Programming and Memory Management - 3
+### 3 - C Programming: Modular Programming and Memory Management
 
 - Write your own functions
 - Understand a computer's architecture and how its memory is organized
 
-### C Programming: Pointers and Memory Management - 4
+### 4 - C Programming: Pointers and Memory Management
 
 - Dynamic memory allocation
 
-### C Programming: Advanced Data Types - 5
+### 5 - C Programming: Advanced Data Types
 
 - Defining data types to efficiently store and process data
 
-### Linux Basics: The Command Line Interface - 6
+### 6 - Linux Basics: The Command Line Interface
 
 - Use fundamental Linux commands
 - Use the Linux command line interface
 
-### C Programming: Using Linux Tools and Libraries - 7
+### 7 - C Programming: Using Linux Tools and Libraries
 
 - Develop and use C code within the Linux OS
 - Pass arguments to an executable program
