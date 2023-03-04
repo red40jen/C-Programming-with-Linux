@@ -21,3 +21,20 @@ This repo contains my course notes for Coursera's "C Programming with Linux" Spe
 - Write your own functions
 - Understand a computer's architecture and how its memory is organized
 
+### C Programming: Pointers and Memory Management - 4
+
+- Dynamic memory allocation
+
+### C Programming: Advanced Data Types - 5
+
+- Defining data types to efficiently store and process data
+
+### Linux Basics: The Command Line Interface - 6
+
+- Use fundamental Linux commands
+- Use the Linux command line interface
+
+### C Programming: Using Linux Tools and Libraries - 7
+
+- Develop and use C code within the Linux OS
+- Pass arguments to an executable program
