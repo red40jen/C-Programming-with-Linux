@@ -42,3 +42,22 @@ int main(void) {
 }
 
 ```
+
+# Module 3
+
+## Simple calculations with format specifiers
+
+- %d specifies an integer number in a string of characters
+  - The integer gets passed in as additional parameters to the function
+
+```c
+
+#include <stdio.h>
+
+int main(void){
+    printf("The product of %d and %d is %d.",50,2,50*2);
+    
+    return 0;
+}
+
+```
